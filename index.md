@@ -1,4 +1,4 @@
-# Ferienwohnung Blumenstraße 1
+# Ferienwohnung Blumenstraße 2
 
 Freundliche , helle Wohnung mit eigenem Eingang. In ruhiger Lage südlich des Stadtzentrums. Zur Burg sind es 5 -10 Fußminuten, Einkaufsmarkt in der Nähe. Restaurants findet man im Stadtzentrum unterhalb der Burg. Parkplatz und WLan sind verfügbar.
 Blumenstraße 1, 48455 Bad Bentheim
@@ -23,7 +23,7 @@ Größe (Quadratmeter) | Mindestaufenthalt | Mögliche Belegung
 ### Schlafzimmer
 
 | ![](/schlafzimmer-B1.JPG) | ![](/schlafzimmer-B2.JPG) | ![](/schlafzimmer-B3.JPG) |
-|--|--|--|
+|---|---|---|
 
 ### Wohnzimmer
 

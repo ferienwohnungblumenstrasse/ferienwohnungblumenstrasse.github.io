@@ -37,8 +37,8 @@ Größe (Quadratmeter) | Mindestaufenthalt | Mögliche Belegung
 
 ### Bad 
 
-![](/bad-B1.JPG) | ![](/bad-B2.JPG)
--|-
+![](/bad-B1.JPG) | ![](/bad-B2.JPG) | ![](/bad-B3.JPG)
+-|-|-
 
 ### Eingangsbereich im Erdgeschoss
 

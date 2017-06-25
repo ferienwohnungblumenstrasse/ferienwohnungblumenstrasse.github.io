@@ -15,7 +15,32 @@ In der Einbauküche steht ein Kühlschrank mit Eisfach, Ceran-Kochfeld mit Backo
 Das große L-förmige Wohnzimmer besteht aus einer Essecke mit Tisch und 3 Stühlen sowie einem Vitrinenschrank mit Geschirr sowie einer Sitzecke mit  Couchgarnitur, einem zusätzlichen Sessel und dem Satelliten-TV mit Plasma-Bildschirm. Das Radio mit CD-Player steht zwischen den Sofas. 
 
 Größe (Quadratmeter) | Mindestaufenthalt | Mögliche Belegung
----------------------|-------------------|------------------
+-|-|-
 65 | 2 Nächte | 1-3 Personen
 
 ## Bilder
+
+### Wohnzimmer
+
+![](/wohnzimmer-B1.JPG) | ![](/wohnzimmer-B2.JPG)
+-|-
+
+### Schlafzimmer
+
+![](/schlafzimmer-B1.JPG) | ![](/schlafzimmer-B2.JPG) | ![](/schlafzimmer-B3.JPG)
+-|-|-
+
+### Küche und Flur im Dachgeschoss
+
+![](/küche.JPG) | ![](/flur-oben.JPG) 
+-|-
+
+### Bad 
+
+![](/bad-B1.JPG) | ![](/bad-B2.JPG)
+-|-
+
+### Eingangsbereich im Erdgeschoss
+
+![](/eingang.JPG) | ![](/flurgarderobe.JPG) | ![](/flur-treppe.JPG)
+-|-|-

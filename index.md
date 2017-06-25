@@ -20,16 +20,15 @@ Größe (Quadratmeter) | Mindestaufenthalt | Mögliche Belegung
 
 ## Bilder
 
-### Wohnzimmer
-
-![](/wohnzimmer-B1.JPG) | ![](/wohnzimmer-B2.JPG)
--|-
- | 
-
 ### Schlafzimmer
 
 ![](/schlafzimmer-B1.JPG) | ![](/schlafzimmer-B2.JPG) | ![](/schlafzimmer-B3.JPG)
 -|-|-
+
+### Wohnzimmer
+
+![](/wohnzimmer-B1.JPG) | ![](/wohnzimmer-B2.JPG)
+-|-
 
 ### Küche und Flur im Dachgeschoss
 

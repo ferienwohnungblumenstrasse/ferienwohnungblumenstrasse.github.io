@@ -1,0 +1,5 @@
+---
+---
+
+@import "{{ site.theme }}";
+.markdown-body table th:not(:first-child), .markdown-body table td:not(:first-child) { border: none; }

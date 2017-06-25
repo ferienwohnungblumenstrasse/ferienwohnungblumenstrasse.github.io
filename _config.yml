@@ -1,4 +1,1 @@
-markdown: kramdown
-kramdown:
-  input: GFM
-  gfm_quirks: true
+markdown: markdown-it

@@ -24,6 +24,7 @@ Größe (Quadratmeter) | Mindestaufenthalt | Mögliche Belegung
 
 ![](/wohnzimmer-B1.JPG) | ![](/wohnzimmer-B2.JPG)
 -|-
+ | 
 
 ### Schlafzimmer
 

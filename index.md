@@ -20,7 +20,7 @@ Größe (Quadratmeter) | Mindestaufenthalt | Mögliche Belegung
 
 ## Bilder
 
-### Schlafzimmertest
+### Schlafzimmer
 
 ![](/schlafzimmer-B1.JPG) | ![](/schlafzimmer-B2.JPG) | ![](/schlafzimmer-B3.JPG)
 -|-|-
@@ -44,3 +44,6 @@ Größe (Quadratmeter) | Mindestaufenthalt | Mögliche Belegung
 
 ![](/eingang.JPG) | ![](/flurgarderobe.JPG) | ![](/flur-treppe.JPG)
 -|-|-
+
+---
+2017-06-25 18:24

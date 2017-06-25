@@ -23,27 +23,27 @@ Größe (Quadratmeter) | Mindestaufenthalt | Mögliche Belegung
 ### Schlafzimmer
 
 ![](/schlafzimmer-B1.JPG) | ![](/schlafzimmer-B2.JPG) | ![](/schlafzimmer-B3.JPG)
--|-|-
+--|--|--
 
 ### Wohnzimmer
 
 ![](/wohnzimmer-B1.JPG) | ![](/wohnzimmer-B2.JPG)
--|-
+--|--
 
 ### Küche und Flur im Dachgeschoss
 
 ![](/küche.JPG) | ![](/flur-oben.JPG) 
--|-
+--|--
 
 ### Bad 
 
 ![](/bad-B1.JPG) | ![](/bad-B2.JPG) | ![](/bad-B3.JPG)
--|-|-
+--|--|--
 
 ### Eingangsbereich im Erdgeschoss
 
 ![](/eingang.JPG) | ![](/flurgarderobe.JPG) | ![](/flur-treppe.JPG)
--|-|-
+--|--|--
 
 ---
 2017-06-25 18:24

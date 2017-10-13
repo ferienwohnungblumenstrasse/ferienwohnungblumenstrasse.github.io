@@ -1,15 +1,19 @@
 # Ferienwohnung Blumenstraße
 
-Die freundliche, helle Wohnung mit eigenem Eingang ist modern ausgestattet. Sie liegt in ruhiger Lage südlich des Stadtzentrums. Zur Burg sind es 5 - 10 Fußminuten. Restaurants findet man im Stadtzentrum unterhalb der Burg. Parkplatz und WLan sind verfügbar. Ein Einkaufsmarkt ist in der Nähe, etwa 5 Fußminuten. 
-Blumenstraße 1, 48455 Bad Bentheim
+Die freundliche, helle Wohnung mit eigenem Eingang ist modern ausgestattet. Sie liegt in ruhiger Lage südlich des Stadtzentrums. Zur Burg sind es 5 - 10 Fußminuten. Restaurants findet man im Stadtzentrum unterhalb der Burg. Ein Einkaufsmarkt ist in der Nähe, etwa 5 Fußminuten entfernt. 
+Zur Wohnung gehört ein PKW-Stellplatz. Ein überdachter Fahrradabstellplatz mit Lademöglichkeit für e-bikes befindet sich im Garten hinter dem Haus. Dort steht für Feriengäste auch ein Tisch mit Sitzmöglichkeiten. 
+
+Anschrift: Blumenstraße 1, 48455 Bad Bentheim
 
 ## Ansprechpartner
-J. und J. Uekermann  |  +49 5922 994150  │  Gartenstraße 13  │  48455 Bad Bentheim  │  ju1@uekermann-online.de
+
+Jutta Sander- und Jürgen Uekermann  |  +49 5922 994150  │  Gartenstraße 13  │  48455 Bad Bentheim  │  ju1@uekermann-online.de
+Das Haus befindet sich auf der anderen Seite des Gartens. 
 
 ## Ausstattung
 
 Der Eingang im Erdgeschoss führt in den Garderobenraum. Über eine Treppe gelangt man in den kleinen Flur der eigentlichen Wohnung in der 1. Etage. 
-Im Schlafzimmer steht ein Schrankregal mit Kleiderstange und Schrankfächern,   ein Doppelbett sowie ein Sessel mit kleinem Tisch. Bettwäsche ist vorhanden. 
+Im Schlafzimmer steht ein Schrankregal mit Kleiderstange und Schrankfächern, ein Doppelbett sowie ein Sessel mit kleinem Tisch. Bettwäsche ist vorhanden. 
 Das Badezimmer enthält Waschbecken, Dusche und WC sowie einige Ablegefächer und einen Fön und einen Kosmetikspiegel. Handtücher liegen im Schlafzimmer parat.
 In der Einbauküche steht ein Kühlschrank mit Eisfach, Ceran-Kochfeld mit Backofen und eine Edelstahlspüle. Warmes Wasser erhält man mit einem Elektrowarmwasserspeicher direkt unter der Spüle. Espressokanne, Teekocher, Kaffeemaschine sind vorhanden. 
 Das große L-förmige Wohnzimmer besteht aus einer Essecke mit Tisch und 3 Stühlen sowie einem Vitrinenschrank mit Geschirr sowie einer Sitzecke mit  Couchgarnitur, einem zusätzlichen Sessel und dem Satelliten-TV mit Plasma-Bildschirm. Das Radio mit CD-Player steht zwischen den Sofas. 

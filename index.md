@@ -7,7 +7,8 @@ Anschrift: Blumenstraße 1, 48455 Bad Bentheim
 
 ## Ansprechpartner
 
-Jutta Sander- und Jürgen Uekermann  |  +49 5922 994150  │  Gartenstraße 13  │  48455 Bad Bentheim  │  ju1@uekermann-online.de
+Jutta Sander- und Jürgen Uekermann | +49 5922 994150 │ Gartenstraße 13 │ 48455 Bad Bentheim │ ju1@uekermann-online.de
+
 Das Haus befindet sich auf der anderen Seite des Gartens. 
 
 ## Ausstattung

@@ -18,14 +18,29 @@ Die Wohnung ist für 1 - 3 Personen geeignet. Die Mindestmietdauer ist 2 Tage.
 Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen. 
 
 Mietpreis pro Tag für 1 oder 2 Personen                                     │  50,00 € │
+
 Aufpreis für eine dritte Person                                             │  10,00 € │
 
 Rabatte für Buchungsdauer ab eine Woche                                     │     10%  │
+
             Buchungsdauer ab einem Monat                                    │     35%  │
             
-Zusätzliche Reinigungsgebühr                                                │  20,00 € │           
+Zusätzliche Reinigungsgebühr                                                │  20,00 € │   
 
-## Kurtaxe
+## Hausregeln
+
+Die Check-in-Zeit ist 15:00–20:00 Uhr            │             Check-out bis 11:00
+
+Rauchen verboten   │   Nicht für Haustiere geeignet   │   Keine Partys oder Veranstaltungen
+
+Nicht sicher, ungeeignet für Kinder (0–12 Jahre) │  ungeeignet für Behinderte   │   Die Treppe ist steil
+
+
+## Kurbeitrag / Gästekarte
+
+Der Kurbeitrag muss von jedem Gast am Tag nach der Ankunft an den Wohnungsgeber entrichtet werden. Er wird an die Stadt weitergeleitet. Dafür erhält jeder Gast eine Gastkarte. Mit dieser Gastkarte kann man kostenlos an der öffentlichen Stadtführung  und dem Nachtwächterrundgang teilnehmen. Darüber hinaus gibt es unter anderem Preisreduzierung für öffentliche Busfahrten, Eintritt in den Badepark und in die Mineraltherme.
+
+Kurbeitrag: Für jede erwachsene Person (ab 18 Jahre) 1,50 €, für Kinder, Jugendliche (5 - 17 Jahre)  0,75 €.
 
 
 

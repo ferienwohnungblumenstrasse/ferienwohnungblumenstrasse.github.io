@@ -15,13 +15,13 @@ Anschrift: Gartenstraße 13, 48455 Bad Bentheim; Das Haus befindet sich auf der 
 
 Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen. Mindestaufenthalt 2 Tage.
 
-Mietpreis pro Tag für 1 oder 2 Personen                                     │  50,00 €
-Aufpreis für eine dritte Person                                             │  10,00 €
+Mietpreis pro Tag für 1 oder 2 Personen                                     │  50,00 € │
+Aufpreis für eine dritte Person                                             │  10,00 € │
 
-Rabatte für Buchungsdauer ab eine Woche                                     │     10%
-            Buchungsdauer ab einem Monat                                    │      35%
+Rabatte für Buchungsdauer ab eine Woche                                     │     10%  │
+            Buchungsdauer ab einem Monat                                    │     35%  │
             
-Zusätzliche Reinigungsgebühr                                                │  20,00 €            
+Zusätzliche Reinigungsgebühr                                                │  20,00 € │           
 
 
 
@@ -33,9 +33,9 @@ Das Badezimmer enthält Waschbecken, Dusche und WC sowie einige Ablegefächer, e
 In der Einbauküche steht ein Kühlschrank mit Eisfach, Ceran-Kochfeld mit Backofen und eine Edelstahlspüle. Warmes Wasser erhält man mit einem Elektrowarmwasserspeicher direkt unter der Spüle. Espressokanne, Teekocher, Kaffeemaschine sind vorhanden. 
 Das große L-förmige Wohnzimmer besteht aus einer Essecke mit Tisch und 3 Stühlen sowie einem Vitrinenschrank mit Geschirr sowie einer Sitzecke mit  Couchgarnitur, einem zusätzlichen Sessel und dem Satelliten-TV mit Plasma-Bildschirm. Das Radio mit CD-Player steht zwischen den Sofas. 
 
-Größe (Quadratmeter) | Mindestaufenthalt | Mögliche Belegung
+Größe (Quadratmeter) |          | Mögliche Belegung
 
-           65        | 2 Nächte          | 1-3 Personen
+           65        |          | 1-3 Personen
 
 ## Bilder
 

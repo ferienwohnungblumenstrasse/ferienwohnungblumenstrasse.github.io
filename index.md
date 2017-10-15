@@ -35,13 +35,11 @@ Die Check-in-Zeit ist 15:00–20:00 Uhr            │             Check-out bis
 
 Rauchen verboten   │   Nicht für Haustiere geeignet   │   Keine Partys oder Veranstaltungen
 
-Nicht sicher, ungeeignet für Kinder (Rauchen verboten
-Nicht für Haustiere geeignet
-Keine Partys oder Veranstaltungen
-Nicht sicher oder ungeeignet für Kinder (0–12 Jahre)
+Nicht sicher, ungeeignet für Kinder (0–12 Jahre)   │  ungeeignet für Behinderte   │   Die Treppe ist steil
+
+
 Die Check-in-Zeit ist 15:00–20:00
 Check-out bis 11:00
-0–12 Jahre) │  ungeeignet für Behinderte   │   Die Treppe ist steil
 
 
 ## Kurbeitrag / Gästekarte

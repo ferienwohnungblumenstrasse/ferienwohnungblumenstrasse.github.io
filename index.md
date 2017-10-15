@@ -1,6 +1,6 @@
 # Ferienwohnung Blumenstraße
 
-Die freundliche, helle Wohnung mit eigenem Eingang ist modern ausgestattet. Sie liegt in ruhiger Lage südlich des Stadtzentrums. Zur Burg sind es 5 - 10 Fußminuten. Restaurants findet man im Stadtzentrum unterhalb der Burg. Ein Einkaufsmarkt ist in der Nähe, etwa 5 Fußminuten entfernt. 
+Die freundliche, helle Wohnung mit eigenem Eingang ist modern ausgestattet. Sie liegt in ruhiger Lage südlich des Stadtzentrums. Zur Burg und zur Stadtmitte sind es 5 - 10 Fußminuten. Dort findet man auch Restaurants. Ein Einkaufsmarkt ist in Wohnungsnähe, etwa 5 Fußminuten entfernt. 
 Zur Wohnung gehört ein PKW-Stellplatz. Ein überdachter Fahrradabstellplatz mit Lademöglichkeit für E-Bikes befindet sich im Garten hinter dem Haus. Dort steht für Feriengäste auch ein Tisch mit Sitzmöglichkeiten. 
 
 Anschrift: Blumenstraße 1, 48455 Bad Bentheim
@@ -13,15 +13,16 @@ Anschrift: Gartenstraße 13, 48455 Bad Bentheim; Das Haus befindet sich auf der 
 
 ## Buchungsbedingung und Preise
 
-Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen. Die Mindestdauer beträgt 2 Tage.
+Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen. Mindestaufenthalt 2 Tage.
 
-Mietpreis pro Tag für 1 oder 2 Personen                                       50,00 €
-Aufpreis für eine dritte Person                                               10,00 €
+Mietpreis pro Tag für 1 oder 2 Personen                                     │  50,00 €
+Aufpreis für eine dritte Person                                             │  10,00 €
 
-Rabatte für Buchungsdauer ab eine Woche                                           10%
-            Buchungsdauer ab einem Monat                                          35%
+Rabatte für Buchungsdauer ab eine Woche                                     │     10%
+            Buchungsdauer ab einem Monat                                    │      35%
             
-Zusätzliche Reinigungsgebühr                                                  20,00 €            
+Zusätzliche Reinigungsgebühr                                                │  20,00 €            
+
 
 
 ## Ausstattung

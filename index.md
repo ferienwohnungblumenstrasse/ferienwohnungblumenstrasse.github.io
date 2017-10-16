@@ -29,7 +29,7 @@ Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen.
 * Check-out bis 11:00
 * Rauchen verboten
 * Nicht für Haustiere geeignet
-* Keine Partys oder Veranstaltungen |
+* Keine Partys oder Veranstaltungen
 * Nicht sicher, ungeeignet für Kinder (0–12 Jahre)
 * ungeeignet für Behinderte (die Treppe ist steil)
 

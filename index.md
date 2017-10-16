@@ -48,10 +48,6 @@ Der Kurbeitrag muss von jedem Gast am Tag nach der Ankunft an den Wohnungsgeber 
 Der Eingang im Erdgeschoss führt in den Garderobenraum. Über eine Treppe gelangt man in den Flur der Wohnung in der 1. Etage.
 In der ersten Etage befinden sich Schlafzimmer, Badezimmer, Küche und ein großes Wohnzimmer.
 
-| `Hier Bild vom Grundriss einfügen` |
-|-|
-| |
-
 Schlafzimmer:
 
 * Schrankregal mit Kleiderstange und Schrankfächern

@@ -23,7 +23,7 @@ Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen.
 | Aufpreis für eine dritte Person │ 10,00€ |
 | Rabat für Buchungsdauer ab einer Woche │ 10% |
 | Rabat für Buchungsdauer ab einem Monat │ 35% |
-| Zusätzliche Reinigungsgebühr │ 20,00 € |
+| Zusätzliche Reinigungsgebühr │ 20,00€ |
 
 ## Hausregeln
 

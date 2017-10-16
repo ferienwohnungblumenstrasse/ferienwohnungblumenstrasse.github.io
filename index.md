@@ -38,9 +38,10 @@ Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen.
 
 Der Kurbeitrag muss von jedem Gast am Tag nach der Ankunft an den Wohnungsgeber entrichtet werden. Er wird an die Stadt weitergeleitet. Dafür erhält jeder Gast eine Gastkarte. Mit dieser Gastkarte kann man kostenlos an der öffentlichen Stadtführung  und dem Nachtwächterrundgang teilnehmen. Darüber hinaus gibt es unter anderem Preisreduzierung für öffentliche Busfahrten, Eintritt in den Badepark und in die Mineraltherme.
 
-Kurbeitrag: Für jede erwachsene Person (ab 18 Jahre) 1,50 €, für Kinder, Jugendliche (5 - 17 Jahre)  0,75 €.
-
-
+| Kurbeitrag | |
+|---|---|
+| Erwachsene (ab 18 Jahre) | 1,50€ |
+| Kinder, Jugendliche (5 - 17 Jahre) | 0,75€ |
 
 ## Ausstattung
 
@@ -49,11 +50,6 @@ Im Schlafzimmer steht ein Schrankregal mit Kleiderstange und Schrankfächern, ei
 Das Badezimmer enthält Waschbecken, Dusche und WC sowie einige Ablegefächer, einen Fön und einen Kosmetikspiegel. Handtücher liegen im Schlafzimmer.
 In der Einbauküche steht ein Kühlschrank mit Eisfach, Ceran-Kochfeld mit Backofen und eine Edelstahlspüle. Warmes Wasser erhält man mit einem Elektrowarmwasserspeicher direkt unter der Spüle. Espressokanne, Teekocher, Kaffeemaschine sind vorhanden. 
 Das große L-förmige Wohnzimmer besteht aus einer Essecke mit Tisch und 3 Stühlen sowie einem Vitrinenschrank mit Geschirr sowie einer Sitzecke mit  Couchgarnitur, eiRauchen verboten
-Nicht für Haustiere geeignet
-Keine Partys oder Veranstaltungen
-Nicht sicher oder ungeeignet für Kinder (0–12 Jahre)
-Die Check-in-Zeit ist 15:00–20:00
-Check-out bis 11:00
 nem zusätzlichen Sessel und dem Satelliten-TV mit Plasma-Bildschirm. Das Radio mit CD-Player steht zwischen den Sofas. 
 
 Größe: 65 m²   

@@ -3,3 +3,4 @@
 
 @import "{{ site.theme }}";
 .markdown-body table:not(:first-of-type) th, .markdown-body table:not(:first-of-type) td, .markdown-body table:not(:first-of-type) tr { border: none; }
+body > div > h1:nth-child(1) { display: none; }

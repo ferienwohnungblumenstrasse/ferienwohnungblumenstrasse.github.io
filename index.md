@@ -25,14 +25,13 @@ Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen.
 
 ## Hausregeln
 
-| Die Check-in-Zeit ist 15:00–20:00 Uhr | Check-out bis 11:00 |
-| --- | --- |
-| Rauchen verboten | Nicht für Haustiere geeignet | Keine Partys oder Veranstaltungen |
-| Nicht sicher, ungeeignet für Kinder (0–12 Jahre) | ungeeignet für Behinderte | Die Treppe ist steil |
-
-
-Die Check-in-Zeit ist 15:00–20:00
-Check-out bis 11:00
+* Check-in-Zeit ist 15:00–20:00 Uhr
+* Check-out bis 11:00
+* Rauchen verboten
+* Nicht für Haustiere geeignet
+* Keine Partys oder Veranstaltungen |
+* Nicht sicher, ungeeignet für Kinder (0–12 Jahre)
+* ungeeignet für Behinderte (die Treppe ist steil)
 
 
 ## Kurbeitrag / Gästekarte

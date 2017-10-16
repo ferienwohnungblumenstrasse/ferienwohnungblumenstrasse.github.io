@@ -43,17 +43,41 @@ Der Kurbeitrag muss von jedem Gast am Tag nach der Ankunft an den Wohnungsgeber 
 | Erwachsene (ab 18 Jahre) | 1,50€ |
 | Kinder, Jugendliche (5 - 17 Jahre) | 0,75€ |
 
-## Ausstattung
+## Wohnung
 
-Der Eingang im Erdgeschoss führt in den Garderobenraum. Über eine Treppe gelangt man in den kleinen Flur der Wohnung in der 1. Etage. 
-Im Schlafzimmer steht ein Schrankregal mit Kleiderstange und Schrankfächern, ein Doppelbett sowie ein Sessel mit kleinem Tisch. Bettwäsche ist vorhanden. 
-Das Badezimmer enthält Waschbecken, Dusche und WC sowie einige Ablegefächer, einen Fön und einen Kosmetikspiegel. Handtücher liegen im Schlafzimmer.
-In der Einbauküche steht ein Kühlschrank mit Eisfach, Ceran-Kochfeld mit Backofen und eine Edelstahlspüle. Warmes Wasser erhält man mit einem Elektrowarmwasserspeicher direkt unter der Spüle. Espressokanne, Teekocher, Kaffeemaschine sind vorhanden. 
-Das große L-förmige Wohnzimmer besteht aus einer Essecke mit Tisch und 3 Stühlen sowie einem Vitrinenschrank mit Geschirr sowie einer Sitzecke mit  Couchgarnitur, eiRauchen verboten
-nem zusätzlichen Sessel und dem Satelliten-TV mit Plasma-Bildschirm. Das Radio mit CD-Player steht zwischen den Sofas. 
+Der Eingang im Erdgeschoss führt in den Garderobenraum. Über eine Treppe gelangt man in den Flur der Wohnung in der 1. Etage.
 
-Größe: 65 m²   
-      
+| `Hier Bild vom Grundriss einfügen` |
+|-|
+| |
+
+Schlafzimmer:
+
+* Schrankregal mit Kleiderstange und Schrankfächern
+* Doppelbett (Bettwäsche ist vorhanden)
+* Sessel mit kleinem Tisch
+
+Badezimmer:
+
+* Dusche, WC, Waschbecken
+* Handtücher liegen im Schlafzimmer.
+* Ablegefächer
+* Fön
+* Kosmetikspiegel
+
+Einbauküche:
+
+* Kühlschrank mit Eisfach
+* Ceran-Kochfeld mit Backofen
+* Edelstahlspüle
+* Espressokanne, Teekocher, Kaffeemaschine
+
+Große L-förmiges Wohnzimmer:
+* Essecke mit Tisch und 3 Stühlen
+* Vitrinenschrank mit Geschirr
+* Couchgarnitur und Sessel
+* Satelliten-TV mit Plasma-Bildschirm
+* Radio mit CD-Player
            
 ## Bilder
 

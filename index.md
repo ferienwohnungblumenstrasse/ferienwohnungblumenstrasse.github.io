@@ -7,7 +7,10 @@ Anschrift: Blumenstraße 1, 48455 Bad Bentheim
 
 ## Ansprechpartner
 
-Jutta Sander-Uekermann und Jürgen Uekermann | +49 5922 994150 │+49 172 52 59 832 │ ju1@uekermann-online.de
+| | Jutta Sander-Uekermann & Jürgen Uekermann |
+|---|---|
+| Telefon | +49 5922 994150 & +49 172 52 59 832 |
+| Email | ju1@uekermann-online.de |
 
 Anschrift: Gartenstraße 13, 48455 Bad Bentheim; Das Haus befindet sich auf der anderen Seite des Gartens. 
 
@@ -18,12 +21,12 @@ Die Wohnung ist für 1 - 3 Personen geeignet. Die Mindestmietdauer ist 2 Tage.
 
 Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen. 
 
-| Mietpreis pro Tag für 1 oder 2 Personen │ 50,00€ |
-|-|-|
-| Aufpreis für eine dritte Person │ 10,00€ |
-| Rabat für Buchungsdauer ab einer Woche │ 10 |
-| Rabat für Buchungsdauer ab einem Monat │ 35 |
-| Zusätzliche Reinigungsgebühr │ 20,00€ |
+Mietpreis pro Tag für 1 oder 2 Personen │ 50,00€
+--- | ---
+Aufpreis für eine dritte Person │ 10,00€
+Rabat für Buchungsdauer ab einer Woche │ 10
+Rabat für Buchungsdauer ab einem Monat │ 35
+Zusätzliche Reinigungsgebühr │ 20,00€
 
 ## Hausregeln
 

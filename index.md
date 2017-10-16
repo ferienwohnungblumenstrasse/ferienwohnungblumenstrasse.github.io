@@ -18,13 +18,12 @@ Die Wohnung ist für 1 - 3 Personen geeignet. Die Mindestmietdauer ist 2 Tage.
 
 Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen. 
 
-| Mietpreis pro Tag für 1 oder 2 Personen                                     │  50,00 € |
+| Mietpreis pro Tag für 1 oder 2 Personen │ 50,00€ |
 |-|-|
-| Aufpreis für eine dritte Person                                             │  10,00 € |
-| Rabat für Buchungsdauer ab einer Woche                                      │     10%  |
-| Rabat für Buchungsdauer ab einem Monat                                      │     35%  |
-| Zusätzliche Reinigungsgebühr                                                │  20,00 € |
-
+| Aufpreis für eine dritte Person │ 10,00€ |
+| Rabat für Buchungsdauer ab einer Woche │ 10% |
+| Rabat für Buchungsdauer ab einem Monat │ 35% |
+| Zusätzliche Reinigungsgebühr │ 20,00 € |
 
 ## Hausregeln
 

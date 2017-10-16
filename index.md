@@ -57,7 +57,7 @@ Die Check-in-Zeit ist 15:00–20:00
 Check-out bis 11:00
 nem zusätzlichen Sessel und dem Satelliten-TV mit Plasma-Bildschirm. Das Radio mit CD-Player steht zwischen den Sofas. 
 
-Größe: 65 m² |         
+Größe: 65 m²   
       
            
 ## Bilder

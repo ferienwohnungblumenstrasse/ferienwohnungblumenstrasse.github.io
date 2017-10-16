@@ -9,9 +9,6 @@ Zur Wohnung gehört ein PKW-Stellplatz. Ein überdachter Fahrradabstellplatz mit
 | Telefon | +49 5922 994150 & +49 172 52 59 832 |
 | Email | ju1@uekermann-online.de |
 
-Anschrift: Gartenstraße 13, 48455 Bad Bentheim; Das Haus befindet sich auf der anderen Seite des Gartens. 
-
-
 ## Buchungsbedingung und Preise
 
 Die Wohnung ist für 1 - 3 Personen geeignet. Die Mindestmietdauer ist 2 Tage.

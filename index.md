@@ -46,7 +46,7 @@ Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen.
 
 Der Kurbeitrag muss von jedem Gast am Tag nach der Ankunft an den Wohnungsgeber entrichtet werden. Er wird an die Stadt weitergeleitet. Dafür erhält jeder Gast eine Gastkarte. Mit dieser Gastkarte kann man kostenlos an der öffentlichen Stadtführung  und dem Nachtwächterrundgang teilnehmen. Darüber hinaus gibt es unter anderem Preisreduzierung für öffentliche Busfahrten, Eintritt in den Badepark und in die Mineraltherme.
 
-| | |
+
 | Kurbeitrag | |
 |---|---|
 | Erwachsene (ab 18 Jahre) | 1,50€ |

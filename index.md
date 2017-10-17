@@ -4,6 +4,7 @@ Die freundliche, helle Wohnung mit eigenem Eingang ist modern ausgestattet. Sie 
 Zur Wohnung gehört ein PKW-Stellplatz. Ein überdachter Fahrradabstellplatz mit Lademöglichkeit für E-Bikes befindet sich im Garten hinter dem Haus. Dort steht für Feriengäste auch ein Tisch mit Sitzmöglichkeiten. 
 
 | Wohnungsadresse | Blumenstraße 1, 48455 Bad Bentheim |
+|---|---|
 
 
 | Ansprechpartner | Jutta Sander-Uekermann & Jürgen Uekermann |

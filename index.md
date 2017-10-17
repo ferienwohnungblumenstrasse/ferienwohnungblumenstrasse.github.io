@@ -12,9 +12,10 @@ Zur Wohnung gehört ein PKW-Stellplatz. Ein überdachter Fahrradabstellplatz mit
 | Ansprechpartner | Jutta Sander-Uekermann & Jürgen Uekermann |
 |---|---|
 | Anschrift | Gartenstraße 13, 48455 Bad Bentheim | 
-| direkt über der Blumenstraße 1 |
+|- | direkt über der Blumenstraße 1 |
 | Telefon | +49 5922 994150 oder +49 172 52 59 832 |
 | Email | ju1@uekermann-online.de |
+
 
 ## Buchungsbedingung und Preise
 
@@ -45,6 +46,7 @@ Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen.
 
 Der Kurbeitrag muss von jedem Gast am Tag nach der Ankunft an den Wohnungsgeber entrichtet werden. Er wird an die Stadt weitergeleitet. Dafür erhält jeder Gast eine Gastkarte. Mit dieser Gastkarte kann man kostenlos an der öffentlichen Stadtführung  und dem Nachtwächterrundgang teilnehmen. Darüber hinaus gibt es unter anderem Preisreduzierung für öffentliche Busfahrten, Eintritt in den Badepark und in die Mineraltherme.
 
+| | |
 | Kurbeitrag | |
 |---|---|
 | Erwachsene (ab 18 Jahre) | 1,50€ |

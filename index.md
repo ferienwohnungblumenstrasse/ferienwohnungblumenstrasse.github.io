@@ -2,7 +2,7 @@
 title: Ferienwohnung Uekermann in Bad Bentheim
 ---
 
-# Ferienwohnung Blumenstraße
+# Ferienwohnung Uekermann in Bad Bentheim
 
 Die freundliche, helle Wohnung mit eigenem Eingang ist modern ausgestattet. Sie liegt in ruhiger Lage südlich des Stadtzentrums. Zur Burg und zur Stadtmitte sind es 5 - 10 Fußminuten. Dort findet man auch Restaurants. Ein Einkaufsmarkt ist in Wohnungsnähe, etwa 5 Fußminuten entfernt. 
 Zur Wohnung gehört ein PKW-Stellplatz. Ein überdachter Fahrradabstellplatz mit Lademöglichkeit für E-Bikes befindet sich im Garten hinter dem Haus. Dort steht für Feriengäste auch ein Tisch mit Sitzmöglichkeiten. 

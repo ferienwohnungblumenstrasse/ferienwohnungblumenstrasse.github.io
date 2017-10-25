@@ -90,32 +90,22 @@ Große L-förmiges Wohnzimmer:
 
 ### Schlafzimmer
 
-| ![](/schlafzimmer-B1.jpg) | ![](/schlafzimmer-B2.jpg) | ![](/schlafzimmer-B3.jpg) |
-|-|-|-|
-| | | |
+<img width="30%" src="schlafzimmer-B1.jpg"> <img width="33%" src="schlafzimmer-B2.jpg"> <img width="33%" src="schlafzimmer-B3.jpg">
 
 ### Wohnzimmer
 
-| ![](/wohnzimmer-B1.jpg) | ![](/wohnzimmer-B2.jpg) |
-|-|-|
-| | |
+<img width="45%" src="wohnzimmer-B1.jpg"> <img width="45%" src="wohnzimmer-B2.jpg">
 
 ### Küche und Flur im Dachgeschoss
 
-| ![](/küche.jpg) | ![](/flur-oben.jpg) |
-|-|-|
-| | |
+<img width="45%" src="küche.jpg"> <img width="45%" src="flur-oben.jpg"> 
 
 ### Bad 
 
-| ![](/bad-B1.jpg) | ![](/bad-B2.jpg) | ![](/bad-B3.jpg) |
-|-|-|-|
-| | | |
+<img width="30%" src="bad-B1.jpg"> <img width="30%" src="bad-B2.jpg"> <img width="30%" src="bad-B3.jpg">
 
 ### Eingangsbereich im Erdgeschoss
 
-| ![](/eingang.jpg) | ![](/flurgarderobe.jpg) | ![](/flur-treppe.jpg) |
-|-|-|-|
-| | | |
+<img width="37.5%" src="eingang.jpg"> <img width="37.5%" src="flurgarderobe.jpg"> <img width="15%" src="flur-treppe.jpg">
 
 [Impressum](/impressum)

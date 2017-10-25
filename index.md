@@ -6,12 +6,14 @@ title: Ferienwohnung Uekermann in Bad Bentheim
 [English](https://translate.google.com/translate?hl=en&sl=de&u=http://www.ferienwohnung-bentheim.de)
 [Nederlands](https://translate.google.com/translate?hl=nl&sl=de&u=http://www.ferienwohnung-bentheim.de)
 
-Die freundliche, helle Wohnung mit eigenem Eingang ist modern ausgestattet. Sie liegt in ruhiger Lage südlich des Stadtzentrums. Zur Burg und zur Stadtmitte sind es 5 - 10 Fußminuten. Dort findet man auch Restaurants. Ein Einkaufsmarkt ist in Wohnungsnähe, etwa 5 Fußminuten entfernt. 
+Die freundliche, helle Wohnung mit eigenem Eingang ist modern ausgestattet und ca. 65 m² groß. Sie liegt in ruhiger Lage südlich des Stadtzentrums. Zur Burg und zur Stadtmitte sind es 5 - 10 Fußminuten. Dort findet man auch Restaurants. Ein Einkaufsmarkt ist in Wohnungsnähe, etwa 5 Fußminuten entfernt. 
 Zur Wohnung gehört ein PKW-Stellplatz. Ein überdachter Fahrradabstellplatz mit Lademöglichkeit für E-Bikes befindet sich im Garten hinter dem Haus. Dort steht für Feriengäste auch ein Tisch mit Sitzmöglichkeiten. 
 
 | Wohnungsadresse | Blumenstraße 1, 48455 Bad Bentheim |
 |---|---|
 | Ansprechpartner | Jutta Sander-Uekermann & Jürgen Uekermann |
+| Anschrift | Gartenstraße 13, 48455 Bad Bentheim |
+| wo: | direkt über die Blumenstraße 1 |
 | Telefon | +49 5922 994150 oder +49 172 52 59 832 |
 | Email | ju1@uekermann-online.de |
 
@@ -37,13 +39,12 @@ Jeder Gast muss einen Lichtbildausweis bei der Buchung vorlegen.
 * Rauchen verboten
 * Nicht für Haustiere geeignet
 * Keine Partys oder Veranstaltungen
-* Nicht sicher, ungeeignet für Kinder (0–12 Jahre)
-* ungeeignet für Behinderte (die Treppe ist steil)
+* Nicht geeignet für Kinder (0–12 Jahre)
 
 
 ## Kurbeitrag / Gästekarte
 
-Der Kurbeitrag muss von jedem Gast am Tag nach der Ankunft an den Wohnungsgeber entrichtet werden. Er wird an die Stadt weitergeleitet. Dafür erhält jeder Gast eine Gastkarte. Mit dieser Gastkarte kann man kostenlos an der öffentlichen Stadtführung  und dem Nachtwächterrundgang teilnehmen. Darüber hinaus gibt es unter anderem Preisreduzierung für öffentliche Busfahrten, Eintritt in den Badepark und in die Mineraltherme.
+Der Kurbeitrag muss von jedem Gast am Tag nach der Ankunft an den Wohnungsgeber entrichtet werden. Er wird an die Stadt weitergeleitet. Dafür erhält jeder Gast eine Gastkarte. Mit dieser Gastkarte kann man kostenlos an der öffentlichen Stadtführung  und dem Nachtwächterrundgang teilnehmen. Darüber hinaus gibt es unter anderem Preisreduzierungen für öffentliche Busfahrten, Eintritt in den Badepark und in die Mineraltherme.
 
 
 | Kurbeitrag | |
@@ -53,8 +54,8 @@ Der Kurbeitrag muss von jedem Gast am Tag nach der Ankunft an den Wohnungsgeber 
 
 ## Wohnung
 
-Der Eingang im Erdgeschoss führt in den Garderobenraum. Über eine Treppe gelangt man in den Flur der Wohnung in der 1. Etage.
-In der ersten Etage befinden sich Schlafzimmer, Badezimmer, Küche und ein großes Wohnzimmer.
+Der Eingang befindet sich im Erdgeschoss. Über eine Treppe gelangt man in den Flur der Wohnung in der 1. Etage.
+Dort befinden sich Schlafzimmer, Badezimmer, Küche und ein großes Wohnzimmer.
 
 Schlafzimmer:
 
@@ -65,7 +66,7 @@ Schlafzimmer:
 Badezimmer:
 
 * Dusche, WC, Waschbecken
-* Handtücher (liegen im Schlafzimmer)
+* Handtücher
 * Ablegefächer
 * Fön
 * Kosmetikspiegel
@@ -77,10 +78,10 @@ Küche:
     * Backofen
     * Edelstahlspüle 
 * Kühlschrank mit Eisfach
-* Espressokanne, Teekocher, Kaffeemaschine
+* Espressokanne, Teekocher, Kaffeemaschine, Toaster, Bügeleisen etc. 
 
-Große L-förmiges Wohnzimmer:
-* Essecke mit Tisch und 3 Stühlen
+Großes L-förmiges Wohnzimmer:
+* Essecke mit Tisch und Stühlen
 * Vitrinenschrank mit Geschirr
 * Couchgarnitur und Sessel
 * Satelliten-TV mit Plasma-Bildschirm

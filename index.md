@@ -90,7 +90,7 @@ Große L-förmiges Wohnzimmer:
 
 ### Schlafzimmer
 
-<img width="30%" src="schlafzimmer-B1.jpg"> <img width="30%" src="schlafzimmer-B2.jpg"> <img width="30%" src="schlafzimmer-B3.jpg">
+<img width="45%" src="schlafzimmer-B1.jpg"> <img width="45%" src="schlafzimmer-B3.jpg">
 
 ### Wohnzimmer
 

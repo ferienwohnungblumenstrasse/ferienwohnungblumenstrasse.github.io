@@ -90,31 +90,31 @@ Große L-förmiges Wohnzimmer:
 
 ### Schlafzimmer
 
-| ![](/schlafzimmer-B1.JPG) | ![](/schlafzimmer-B2.JPG) | ![](/schlafzimmer-B3.JPG) |
+| ![](/schlafzimmer-B1.jpg) | ![](/schlafzimmer-B2.jpg) | ![](/schlafzimmer-B3.jpg) |
 |-|-|-|
 | | | |
 
 ### Wohnzimmer
 
-| ![](/wohnzimmer-B1.JPG) | ![](/wohnzimmer-B2.JPG) |
+| ![](/wohnzimmer-B1.jpg) | ![](/wohnzimmer-B2.jpg) |
 |-|-|
 | | |
 
 ### Küche und Flur im Dachgeschoss
 
-| ![](/küche.JPG) | ![](/flur-oben.JPG) |
+| ![](/küche.jpg) | ![](/flur-oben.jpg) |
 |-|-|
 | | |
 
 ### Bad 
 
-| ![](/bad-B1.JPG) | ![](/bad-B2.JPG) | ![](/bad-B3.JPG) |
+| ![](/bad-B1.jpg) | ![](/bad-B2.jpg) | ![](/bad-B3.jpg) |
 |-|-|-|
 | | | |
 
 ### Eingangsbereich im Erdgeschoss
 
-| ![](/eingang.JPG) | ![](/flurgarderobe.JPG) | ![](/flur-treppe.JPG) |
+| ![](/eingang.jpg) | ![](/flurgarderobe.jpg) | ![](/flur-treppe.jpg) |
 |-|-|-|
 | | | |
 

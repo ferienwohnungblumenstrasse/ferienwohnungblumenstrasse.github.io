@@ -3,7 +3,7 @@ title: Ferienwohnung Uekermann in Bad Bentheim
 ---
 
 # Ferienwohnung Uekermann in Bad Bentheim
-Translations: [English](https://translate.google.com/translate?hl=en&sl=de&u=http://www.ferienwohnung-bentheim.de)
+[English](https://translate.google.com/translate?hl=en&sl=de&u=http://www.ferienwohnung-bentheim.de)
 [Nederlands](https://translate.google.com/translate?hl=nl&sl=de&u=http://www.ferienwohnung-bentheim.de)
 
 Die freundliche, helle Wohnung mit eigenem Eingang ist modern ausgestattet. Sie liegt in ruhiger Lage südlich des Stadtzentrums. Zur Burg und zur Stadtmitte sind es 5 - 10 Fußminuten. Dort findet man auch Restaurants. Ein Einkaufsmarkt ist in Wohnungsnähe, etwa 5 Fußminuten entfernt. 

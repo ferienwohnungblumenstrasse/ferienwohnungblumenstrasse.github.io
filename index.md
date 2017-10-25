@@ -106,6 +106,6 @@ Große L-förmiges Wohnzimmer:
 
 ### Eingangsbereich im Erdgeschoss
 
-<img width="37.5%" src="eingang.jpg"> <img width="37.5%" src="flurgarderobe.jpg"> <img width="15%" src="flur-treppe.jpg">
+<img width="45%" src="eingang.jpg"> <img width="45%" src="flurgarderobe.jpg">
 
 [Impressum](/impressum)

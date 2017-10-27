@@ -17,6 +17,7 @@ Zur Wohnung gehört ein PKW-Stellplatz. Ein überdachter Fahrradabstellplatz mit
 | Telefon | +49 5922 994150 oder +49 172 52 59 832 |
 | Email | ju1@uekermann-online.de |
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19517.44833497922!2d7.117022113737484!3d52.303643405507295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b83b395889d7dd%3A0x4cb8ef3ff6ccd130!2sFerienwohnung+Uekermann!5e0!3m2!1sen!2sdk!4v1509103460050" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Buchungsbedingung und Preise
 

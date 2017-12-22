@@ -100,7 +100,7 @@ Großes L-förmiges Wohnzimmer:
 
 ### Küche und Flur im Dachgeschoss
 
-<img width="45%" src="kuche1.jpg"> <img width="45%" src="kuche2.jpg"> <img width="45%" src="kuche3.jpg"> 
+<img width="45%" src="kuche1.jpg"> <img width="45%" src="kuche2.jpg">
 
 ### Bad 
 
